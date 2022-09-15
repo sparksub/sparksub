@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E3A6AE&height=100&section=header&text=Subin%20Park&fontSize=30&fontColor=363636&animation=fadeIn" />
+
 <a href="https://nt.dariasubin.me"><img src="https://img.shields.io/badge/Portfolio-FF3850?style=flat-square&logo=Micro.blog&logoColor=white&link=https://nt.dariasubin.me"/></a>
 <a href="mailto:Lmhapy25@khu.ac.kr"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lmhapy25@khu.ac.kr"/></a>
 <a href="https://www.linkedin.com/in/dariasubin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIN&logoColor=white&link=https://www.linkedin.com/in/dariasubin/"/></a>
@@ -8,13 +10,14 @@ Hi there! 🤩 I'm **UX researcher** and **front-end developer** using iOS and R
 > My focus area lies in the convergence of:
 > * Human-centered AI interaction
 > * Accessibility
-> * User experience
-> * Qualitative research
-> * Quantitative research
+> * User Experience
+> * Qualitative & Quantitative Research
 
-
-I like to watch art exhibitions and the sea. 🖼 🌊     
+I like to watch art exhibitions 🖼 and baseball ⚾️. 
 And I love the winding lines of Alphonse Maria Mucha paintings. 👸    
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparksub&theme=dracula"/>
 
 #### 🛠 Skills
 
@@ -31,9 +34,8 @@ And I love the winding lines of Alphonse Maria Mucha paintings. 👸
 ##### Design Tools
 <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white"/> 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sparksub&show_icons=true&theme=dracula">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparksub&theme=dracula"/>
 
 <!--
 **sparksub/sparksub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
