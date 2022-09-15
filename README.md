@@ -34,7 +34,7 @@ And I love the winding lines of Alphonse Maria Mucha paintings. 👸
 ##### Design Tools
 <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white"/> 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sparksub&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=sparksub&show_icons=true&theme=dracula">
 
 
 <!--
