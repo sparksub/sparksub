@@ -32,6 +32,9 @@ And I love the winding lines of Alphonse Maria Mucha paintings. 👸
 <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white"/> 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparksub&theme=dracula"/>
+
 <!--
 **sparksub/sparksub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
