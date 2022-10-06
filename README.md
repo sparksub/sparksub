@@ -17,8 +17,6 @@ I like to watch art exhibitions 🖼 and baseball ⚾️.
 And I love the winding lines of Alphonse Maria Mucha paintings. 👸    
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparksub&theme=dracula"/>
-
 #### 🛠 Skills
 
 ##### Languages 
@@ -50,4 +48,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparksub&theme=dracula"/>
 -->
