@@ -6,7 +6,7 @@
 <a href="https://scholar.google.com/citations?hl=en&user=Imo_RyYAAAAJ"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat-square&logo=Google Scholar&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=Imo_RyYAAAAJ"/></a>
 
 
-Hi there! 🤩 I'm **UX researcher** and **front-end developer** using iOS and React. 👩‍💻  
+Hi there! 🤩 I'm **UX researcher** and **programmer** using iOS and React. 👩‍💻  
 > My focus area lies in the convergence of:
 > * Human-centered AI interaction
 > * Accessibility
