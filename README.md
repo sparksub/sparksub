@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=E3A6AE&height=100&section=header&text=Subin%20Park&fontSize=30&fontColor=363636&animation=fadeIn" />
 
-<a href="https://nt.dariasubin.me"><img src="https://img.shields.io/badge/Portfolio-FF3850?style=flat-square&logo=Micro.blog&logoColor=white&link=https://nt.dariasubin.me"/></a>
+<a href="https://dariasubin.me"><img src="https://img.shields.io/badge/Portfolio-FF3850?style=flat-square&logo=Micro.blog&logoColor=white&link=https://nt.dariasubin.me"/></a>
 <a href="mailto:Lmhapy25@khu.ac.kr"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lmhapy25@khu.ac.kr"/></a>
 <a href="https://www.linkedin.com/in/dariasubin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIN&logoColor=white&link=https://www.linkedin.com/in/dariasubin/"/></a>
 <a href="https://scholar.google.com/citations?hl=en&user=Imo_RyYAAAAJ"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat-square&logo=Google Scholar&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=Imo_RyYAAAAJ"/></a>
